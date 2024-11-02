@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Project Logo](path/to/logo.png)
+![Project Logo](assets/images/Logo.png)
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ FlutterFlow projects are built to run on the Flutter _stable_ release. This sect
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vpn-wing.git
+   git clone https://github.com/Dhaqane-00/vpn_wing_Flutter.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -46,7 +46,7 @@ FlutterFlow projects are built to run on the Flutter _stable_ release. This sect
 - Cross-platform support (iOS, Android)
 - High-speed servers
 
-![Feature Image](path/to/feature-image.png)
+![Feature Image](assets/images/Wing_Thumbnail.jpg)
 
 ## Usage
 
@@ -62,6 +62,8 @@ flutter run
 
 Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
+Note: Steal this project not complete it.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
@@ -69,5 +71,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact
 
 For any inquiries, please contact:
-- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
-- **Project Link**: [https://github.com/yourusername/vpn-wing](https://github.com/yourusername/vpn-wing)
+- **Abdilaahi Dhaqane** - [Abdilaahimowliid@gmail.com](mailto:Abdilaahimowliid@gmail.com)
+- **Project Link**: [https://github.com/Dhaqane-00/vpn_wing_Flutter](https://github.com/Dhaqane-00/vpn_wing_Flutter)
